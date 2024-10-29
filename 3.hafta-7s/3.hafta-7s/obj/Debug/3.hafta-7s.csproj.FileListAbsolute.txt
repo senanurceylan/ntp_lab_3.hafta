@@ -1,0 +1,7 @@
+c:\users\sena ceylan\source\repos\3.hafta-7s\3.hafta-7s\obj\Debug\3.hafta-7s.csprojAssemblyReference.cache
+c:\users\sena ceylan\source\repos\3.hafta-7s\3.hafta-7s\obj\Debug\3.hafta-7s.csproj.CoreCompileInputs.cache
+c:\users\sena ceylan\source\repos\3.hafta-7s\3.hafta-7s\bin\Debug\3.hafta-7s.exe.config
+c:\users\sena ceylan\source\repos\3.hafta-7s\3.hafta-7s\bin\Debug\3.hafta-7s.exe
+c:\users\sena ceylan\source\repos\3.hafta-7s\3.hafta-7s\bin\Debug\3.hafta-7s.pdb
+c:\users\sena ceylan\source\repos\3.hafta-7s\3.hafta-7s\obj\Debug\3.hafta-7s.exe
+c:\users\sena ceylan\source\repos\3.hafta-7s\3.hafta-7s\obj\Debug\3.hafta-7s.pdb
