@@ -1,0 +1,7 @@
+C:\Users\Sena Ceylan\source\repos\3.hafta-5.soru\3.hafta-5.soru\bin\Debug\3.hafta-5.soru.exe.config
+C:\Users\Sena Ceylan\source\repos\3.hafta-5.soru\3.hafta-5.soru\bin\Debug\3.hafta-5.soru.exe
+C:\Users\Sena Ceylan\source\repos\3.hafta-5.soru\3.hafta-5.soru\bin\Debug\3.hafta-5.soru.pdb
+C:\Users\Sena Ceylan\source\repos\3.hafta-5.soru\3.hafta-5.soru\obj\Debug\3.hafta-5.soru.csprojAssemblyReference.cache
+C:\Users\Sena Ceylan\source\repos\3.hafta-5.soru\3.hafta-5.soru\obj\Debug\3.hafta-5.soru.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ceylan\source\repos\3.hafta-5.soru\3.hafta-5.soru\obj\Debug\3.hafta-5.soru.exe
+C:\Users\Sena Ceylan\source\repos\3.hafta-5.soru\3.hafta-5.soru\obj\Debug\3.hafta-5.soru.pdb

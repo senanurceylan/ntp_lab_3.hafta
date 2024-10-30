@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace _3.hafta_6s
 {
     class Program
+        
     {
         static void Main(string[] args)
         {
